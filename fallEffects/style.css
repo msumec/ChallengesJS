@@ -1,0 +1,15 @@
+.text{
+    text-align: center;
+    font-size: 28px;
+    width: 100%;
+    top: 120px;
+    position: absolute;
+    margin: 0 auto;
+    display: block;
+}
+.canvas{
+    z-index: 2;
+}
+body{
+    background-color: rgb(251, 251, 250);
+}
