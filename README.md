@@ -11,3 +11,7 @@ Directories list:
 [files](https://github.com/msumec/ChallengesJS/tree/main/fallEffects).
 
 
+### `toggle`
+[files](https://github.com/msumec/ChallengesJS/tree/main/Togle).
+
+
